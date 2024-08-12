@@ -1,0 +1,123 @@
+[
+    {
+      "question": "¿Cuál es la capital de Francia?",
+      "options": ["París", "Londres", "Berlín"],
+      "answer": "París"
+    },
+    {
+      "question": "¿Cuál es el río más largo del mundo?",
+      "options": ["Amazonas", "Nilo", "Yangtsé"],
+      "answer": "Amazonas"
+    },
+    {
+      "question": "¿Quién escribió 'Azazel'?",
+      "options": ["Isaac Asimov", "Arthur", "Conan Doyle"],
+      "answer": "Isaac Asimov"
+    },
+    {
+      "question": "¿En qué isla vivía Otelo?",
+      "options": ["Creta", "Chipre", "Sicilia"],
+      "answer": "Creta"
+    },
+    {
+      "question": "¿Cuál es el nombre del primer gran poema épico de la literatura inglesa?",
+      "options": ["Beowulf", "La Ilíada", "La Odisea"],
+      "answer": "Beowulf"
+    },
+    {
+      "question": "¿Quién pintó 'Mujer mirando por la ventana'?",
+      "options": ["Salvador Dalí", "Pablo Picasso", "Diego Velázquez"],
+      "answer": "Salvador Dalí"
+    },
+    {
+      "question": "¿A qué edad alcanzan la madurez las crías de elefante?",
+      "options": ["12-15 años", "8-10 años", "5-7 años"],
+      "answer": "12-15 años"
+    },
+    {
+      "question": "¿Cuántas células de esperma fabrican los testículos de un hombre al día?",
+      "options": ["10 millones", "100 millones", "1.000 millones"],
+      "answer": "10 millones"
+    },
+    {
+      "question": "¿Qué nombre tiene el portátil más ligero, en peso, de Apple?",
+      "options": ["MacBook Air", "MacBook Pro", "MacBook"],
+      "answer": "MacBook Air"
+    },
+    {
+      "question": "¿Cómo llaman los dentistas a 'matar un nervio'?",
+      "options": ["Endodoncia", "Exodoncia", "Ortodoncia"],
+      "answer": "Endodoncia"
+    },
+    {
+      "question": "¿Qué duración tiene un partido de fútbol que llega a la tanda de penaltis?",
+      "options": ["120", "90", "60"],
+      "answer": "120"
+    },
+    {
+      "question": "¿En cuál de los siguientes deportes se puede tocar el balón con las manos?",
+      "options": ["Baloncesto", "Balonmano", "Voleibol"],
+      "answer": "Baloncesto"
+    },
+    {
+      "question": "¿Cómo se llamaba la pelota del Mundial de Fútbol 1978?",
+      "options": ["Adidas Tango", "Adidas Azteca", "Adidas Telstar"],
+      "answer": "Adidas Tango"
+    },
+    {
+      "question": "¿Cuál es el nombre de pila del tenista Federer?",
+      "options": ["Roger", "Rafael", "Richard"],
+      "answer": "Roger"
+    },
+    {
+      "question": "¿Quién era Jay-Jay?",
+      "options": ["Un avioncito", "un coche", "un tren"],
+      "answer": "Un avioncito"
+    },
+    {
+      "question": "¿Qué capitán pirata es una mezcla de criaturas del mar y forma humana en las películas de Piratas del Caribe?",
+      "options": ["May Coller", "Davy Jones", "Jack Sparrow"],
+      "answer": "Davy Jones"
+    },
+    {
+      "question": "¿Quién es el creador del talent show 'The X Factor'?",
+      "options": ["Simon Reo", "Simon Bolivar", "Simon Cowell"],
+      "answer": "Simon Cowell"
+    },
+    {
+      "question": "¿Cómo se llama el personaje del videojuego Grand Theft Auto IV?",
+      "options": ["Niko", "Luis", "Johnny"],
+      "answer": "Niko"
+    },
+    {
+      "question": "¿Cuál es el área urbana más poblada de la India?",
+      "options": ["Bombay", "Delhi", "Calcuta"],
+      "answer": "Bombay"
+    },
+    {
+      "question": "¿Cuál es la capital de la República Checa?",
+      "options": ["Praga", "Budapest", "Varsovia"],
+      "answer": "Praga"
+    },
+    {
+      "question": "¿Cuál es el nombre de la madre de Simba en 'El Rey León'?",
+      "options": ["Nala", "Sarabi", "Sarafina"],
+      "answer": "Sarabi"
+    },
+    {
+      "question": "¿Qué es un 'tornillo' en el argot del baloncesto?",
+      "options": ["Un mate", "Un triple", "Un tapón"],
+      "answer": "Un mate"
+    },
+    {
+      "question": "¿Qué es un 'hat-trick'?",
+      "options": ["Tres goles", "Tres asistencias", "Tres tarjetas amarillas"],
+      "answer": "Tres goles"
+    },
+    {
+      "question": "¿Qué es un 'birdie'?",
+      "options": ["Un golpe bajo par", "Un golpe sobre par", "Un golpe en par"],
+      "answer": "Un golpe bajo par"
+    }
+  ]
+  
